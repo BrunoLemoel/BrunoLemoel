@@ -1,28 +1,52 @@
+<img src="https://avatars.githubusercontent.com/u/194603614?v=4" width="120" align="right" />
+
 # 👋 Hi, I'm Bruno Lemoel!
 
-I'm an electronics, IoT, and open source development enthusiast. I have experience in sensor, embedded systems, and automation projects.
+![Top language](https://img.shields.io/github/languages/top/BrunoLemoel/BrunoLemoel)
+
+Electronics, IoT, and open source enthusiast. I love working with sensors, embedded systems, automation, and sharing knowledge with the community.
+
+---
 
 ## 🚀 Main Projects
 
-- [Raspberry-Pi-Pico-W-IoT-Control-System-with-MQTT](https://github.com/BrunoLemoel/Raspberry-Pi-Pico-W-IoT-Control-System-with-MQTT): Controlling a Pi Pico from an MQTT server
-- [AHT10-Temperature-Humidity-Sensor-with-SSD1306-OLED-Display](https://github.com/BrunoLemoel/AHT10-Temperature-Humidity-Sensor-with-SSD1306-OLED-Display): Temperature and humidity sensor with OLED display. - [Alarm-IoT-Smart-Alarm-System-with-Raspberry-Pi-Pico-W](https://github.com/BrunoLemoel/Alarm-IoT-Smart-Alarm-System-with-Raspberry-Pi-Pico-W): Smart alarm system with Raspberry Pi Pico W.
+| Project | Description | Technologies |
+|---|---|---|
+| [Raspberry-Pi-Pico-W-IoT-Control-System-with-MQTT](https://github.com/BrunoLemoel/Raspberry-Pi-Pico-W-IoT-Control-System-with-MQTT) | Control a Pi Pico from an MQTT server | IoT, MQTT, MicroPython |
+| [AHT10-Temperature-Humidity-Sensor-with-SSD1306-OLED-Display](https://github.com/BrunoLemoel/AHT10-Temperature-Humidity-Sensor-with-SSD1306-OLED-Display) | Temp & humidity sensor with OLED display | IoT, Sensors |
+| [Osc-Reg555-1.0v](https://github.com/BrunoLemoel/Osc-Reg555-1.0v) | Regulated oscillator using IC 555 | Electronics |
+| [Current-Sensor-ACS712xLCTR-05B](https://github.com/BrunoLemoel/Current-Sensor-ACS712xLCTR-05B) | Current sensor ACS712 | IoT, Sensors |
+| [Alarm-IoT-Smart-Alarm-System-with-Raspberry-Pi-Pico-W](https://github.com/BrunoLemoel/Alarm-IoT-Smart-Alarm-System-with-Raspberry-Pi-Pico-W) | Smart alarm system with Pico W | IoT, Automation |
 
-## 💡 About me
+---
+
+## 📈 GitHub Stats
+
+![BrunoLemoel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoLemoel&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLemoel&layout=compact&theme=radical)
+
+---
+
+## 💡 About Me
 
 - Passionate about innovation, technology, and continuous learning.
 - I share projects to help other makers and developers.
 - Always open to collaboration and new ideas!
 
-## 📫 How to find me
+---
 
-- Email: brunolemoel@gmail.com
-- [My GitHub](https://github.com/BrunoLemoel)
-
-## 🌱 Currently learning
+## 🌱 Currently Learning
 
 - New home automation techniques
 - Microcontroller programming
 - Open source contributions
+
+---
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:brunolemoel@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/BrunoLemoel)
 
 ---
 
