@@ -1,10 +1,16 @@
-<img src="https://avatars.githubusercontent.com/u/194603614?v=4" width="120" align="right" />
-
 # 👋 Hi, I'm Bruno Lemoel!
 
 ![Top language](https://img.shields.io/github/languages/top/BrunoLemoel/BrunoLemoel)
 
 Electronics, IoT, and open source enthusiast. I love working with sensors, embedded systems, automation, and sharing knowledge with the community.
+
+---
+
+## 📈 GitHub Stats
+
+![BrunoLemoel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoLemoel&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLemoel&layout=compact&theme=radical)
+
 
 ---
 
@@ -17,13 +23,6 @@ Electronics, IoT, and open source enthusiast. I love working with sensors, embed
 | [Osc-Reg555-1.0v](https://github.com/BrunoLemoel/Osc-Reg555-1.0v) | Regulated oscillator using IC 555 | Electronics |
 | [Current-Sensor-ACS712xLCTR-05B](https://github.com/BrunoLemoel/Current-Sensor-ACS712xLCTR-05B) | Current sensor ACS712 | IoT, Sensors |
 | [Alarm-IoT-Smart-Alarm-System-with-Raspberry-Pi-Pico-W](https://github.com/BrunoLemoel/Alarm-IoT-Smart-Alarm-System-with-Raspberry-Pi-Pico-W) | Smart alarm system with Pico W | IoT, Automation |
-
----
-
-## 📈 GitHub Stats
-
-![BrunoLemoel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrunoLemoel&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLemoel&layout=compact&theme=radical)
 
 ---
 
