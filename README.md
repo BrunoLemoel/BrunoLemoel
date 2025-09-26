@@ -57,6 +57,15 @@
 
 ###
 
-<p align="left">## 🚀 Main Projects<br><br>| Project | Description | Technologies |<br>|---|---|---|<br>| [Raspberry-Pi-Pico-W-IoT-Control-System-with-MQTT](https://github.com/BrunoLemoel/Raspberry-Pi-Pico-W-IoT-Control-System-with-MQTT) | Control a Pi Pico from an MQTT server | IoT, MQTT, MicroPython |<br>| [AHT10-Temperature-Humidity-Sensor-with-SSD1306-OLED-Display](https://github.com/BrunoLemoel/AHT10-Temperature-Humidity-Sensor-with-SSD1306-OLED-Display) | Temp & humidity sensor with OLED display | IoT, Sensors |<br>| [Osc-Reg555-1.0v](https://github.com/BrunoLemoel/Osc-Reg555-1.0v) | Regulated oscillator using IC 555 | Electronics |<br>| [Current-Sensor-ACS712xLCTR-05B](https://github.com/BrunoLemoel/Current-Sensor-ACS712xLCTR-05B) | Current sensor ACS712 | IoT, Sensors |<br>| [Alarm-IoT-Smart-Alarm-System-with-Raspberry-Pi-Pico-W](https://github.com/BrunoLemoel/Alarm-IoT-Smart-Alarm-System-with-Raspberry-Pi-Pico-W) | Smart alarm system with Pico W | IoT, Automation |</p>
+## 🚀 Main Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [Raspberry-Pi-Pico-W-IoT-Control-System-with-MQTT](https://github.com/BrunoLemoel/Raspberry-Pi-Pico-W-IoT-Control-System-with-MQTT) | Control a Pi Pico from an MQTT server | IoT, MQTT, MicroPython |
+| [AHT10-Temperature-Humidity-Sensor-with-SSD1306-OLED-Display](https://github.com/BrunoLemoel/AHT10-Temperature-Humidity-Sensor-with-SSD1306-OLED-Display) | Temp & humidity sensor with OLED display | IoT, Sensors |
+| [Osc-Reg555-1.0v](https://github.com/BrunoLemoel/Osc-Reg555-1.0v) | Regulated oscillator using IC 555 | Electronics |
+| [Current-Sensor-ACS712xLCTR-05B](https://github.com/BrunoLemoel/Current-Sensor-ACS712xLCTR-05B) | Current sensor ACS712 | IoT, Sensors |
+| [Alarm-IoT-Smart-Alarm-System-with-Raspberry-Pi-Pico-W](https://github.com/BrunoLemoel/Alarm-IoT-Smart-Alarm-System-with-Raspberry-Pi-Pico-W) | Smart alarm system with Pico W | IoT, Automation |
+
 
 ###
