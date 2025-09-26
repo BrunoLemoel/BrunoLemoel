@@ -13,8 +13,8 @@ Electronics, IoT, and open source enthusiast. I love working with sensors, embed
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BrunoLemoel&show_icons=true&theme=radical" width="471"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLemoel&layout=compact&theme=radical" width="420"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BrunoLemoel&show_icons=true&theme=radical" width="371"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLemoel&layout=compact&theme=radical" width="320"/>
 
 </div>
 
